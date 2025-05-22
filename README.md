@@ -70,7 +70,7 @@ Com os seguintes parâmetros:
 - [ ] Reinvestimento automático de dividendos
 - [ ] Gráficos de evolução mês a mês
 - [ ] Versão online via Google Sheets
-- [ ] Interface Web interativa (em Python, JavaScript ou outra linguagem)
+
 
 ## 🤝 Contribuições
 
