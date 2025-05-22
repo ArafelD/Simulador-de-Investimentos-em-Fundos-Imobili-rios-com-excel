@@ -1,4 +1,4 @@
-# Simulador-de-Investimentos-em-Fundos-Imobilirios-com-excel
+# Simulador de Investimentos
 planilha criada, para simular investimentos com fórmulas financeiras (juros compostos, somatórios) - Funções do Excel como `SE`, `SOMARPRODUTO`, `TAXA`, `VF`, `PGTO` , `PROCV`- Validação de dados - Formatação condicional - Uso de gráficos para visualização dos resultados
 
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
