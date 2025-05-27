@@ -54,9 +54,6 @@ Com os seguintes parâmetros:
 
 ---
 
-## 🖼️ Visual da Planilha
-
-![Exemplo de simulação preenchida](./exemplo_simulacao_planilha.png)
 
 ---
 
@@ -93,8 +90,7 @@ A planilha utiliza diversos recursos e fórmulas avançadas do Excel, incluindo:
 
 ## 🖥️ Como Usar
 
-1. Faça o download da planilha:
-   - [`Planilha simulador de investimentos Rafael.xlsx`](./Planilha%20simulador%20de%20investimentos%20Rafael.xlsx)
+1. Faça o download da planilha
 2. Abra no Excel (recomendado) ou Google Sheets.
 3. Edite os campos de entrada com seus próprios dados.
 4. Acompanhe os resultados calculados automaticamente.
